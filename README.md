@@ -32,13 +32,7 @@ My unique advantage is leveraging deep architectural knowledge of defensive syst
 
 ## My Certifications
 
-<img src="https://github.com/Haris-Abdul-Ghaffar/Haris-Abdul-Ghaffar/blob/main/Assest/NCTP%20Pentesting.jpg" alt="NCTP Pentest" style="width:100px;">
-<img src=https://github.com/Haris-Abdul-Ghaffar/Haris-Abdul-Ghaffar/blob/main/Assest/CrowdStrike%20Falcon.jpg alt="CrowdStrike XDR" style="width:100px;">
-<img src="https://github.com/Haris-Abdul-Ghaffar/Haris-Abdul-Ghaffar/blob/main/Assest/DLP%20Forcepoint.jpg" alt="Forcepoint DLP" style="width:100px;">
-<img src="https://github.com/Haris-Abdul-Ghaffar/Haris-Abdul-Ghaffar/blob/main/Assest/Delinea%20PAM.jpg" alt="Delenia PAM" style="width:100px;">
-<img src="https://github.com/Haris-Abdul-Ghaffar/Haris-Abdul-Ghaffar/blob/main/Assest/Sophos%20Endpoint%20.jpg" alt="Sophos XDR" style="width:100px;">
-<img src="https://github.com/Haris-Abdul-Ghaffar/Haris-Abdul-Ghaffar/blob/main/Assest/Sophos%20Firewall.jpg" alt="Sophos Firewall" style="width:100px;">
-<img src="https://github.com/Haris-Abdul-Ghaffar/Haris-Abdul-Ghaffar/blob/main/Assest/Trend%20Vision%20One.jpg" alt="Trend Vision One XDR" style="width:100px;">
+<img src="https://github.com/Haris-Abdul-Ghaffar/Haris-Abdul-Ghaffar/blob/main/Assest/NCTP%20Pentesting.jpg" alt="NCTP Pentest" style="width:200px;"><img src=https://github.com/Haris-Abdul-Ghaffar/Haris-Abdul-Ghaffar/blob/main/Assest/CrowdStrike%20Falcon.jpg alt="CrowdStrike XDR" style="width:200px;"><img src="https://github.com/Haris-Abdul-Ghaffar/Haris-Abdul-Ghaffar/blob/main/Assest/DLP%20Forcepoint.jpg" alt="Forcepoint DLP" style="width:200px;"><img src="https://github.com/Haris-Abdul-Ghaffar/Haris-Abdul-Ghaffar/blob/main/Assest/Delinea%20PAM.jpg" alt="Delenia PAM" style="width:200px;"><img src="https://github.com/Haris-Abdul-Ghaffar/Haris-Abdul-Ghaffar/blob/main/Assest/Sophos%20Endpoint%20.jpg" alt="Sophos XDR" style="width:200px;"><img src="https://github.com/Haris-Abdul-Ghaffar/Haris-Abdul-Ghaffar/blob/main/Assest/Sophos%20Firewall.jpg" alt="Sophos Firewall" style="width:200px;"><img src="https://github.com/Haris-Abdul-Ghaffar/Haris-Abdul-Ghaffar/blob/main/Assest/Trend%20Vision%20One.jpg" alt="Trend Vision One XDR" style="width:200px;">
 
 **Languages and Tools:** 
 
