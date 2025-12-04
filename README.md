@@ -16,10 +16,13 @@ Dedicated to hardening digital defenses and breaking code the right way. Passion
 
 My unique advantage is leveraging deep architectural knowledge of defensive systems—including **PAM**, **DLP**, and **XDR** which is a plus for me as I also work in Cybersecurity Solutions, so I know the Defensive side works🔰.
 
+
+
 - 🔭 I’m currently working on robust Cybersecurity Solutions, working on Penetration Testing projects and Bug Bounty programs.
 - 🌱 I’m currently learning advanced techniques and new methodologies for Bug Bounty Hunting, focusing on novel attack vectors.
 - 👯 I’m looking to collaborate on Open-source penetration testing scripts, developing defensive security training modules, or contributing to community-driven bug bounty methodology guides.
 - 🤔 I’m looking for help with Optimizing established bug bounty methodologies and exploring ethical applications of Large Language Models (LLMs) to enhance vulnerability analysis and performance.
+- ❤️ I love to read historical Books and Play Chess
 - 💬 Ask me about Anything related to offensive security, responsible disclosure timelines, effective reporting of high-severity bugs, or automating your vulnerability discovery workflow.
 - 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/haris-abdul-ghaffar) at or send an email to hackverge@gmail.com
 - ⚡ Fun fact: The highest-impact bug I ever found was a critical logic flaw in an authentication system that took me exactly 48 hours straight of pure caffeine and zero sleep.
