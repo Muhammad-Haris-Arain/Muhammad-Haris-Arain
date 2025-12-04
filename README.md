@@ -32,7 +32,7 @@ My unique advantage is leveraging deep architectural knowledge of defensive syst
 
 ## My Certifications
 
-<img src="https://github.com/Haris-Abdul-Ghaffar/Haris-Abdul-Ghaffar/blob/main/Assest/NCTP%20_%20Pentesting.jpg" alt="NCTP Pentest">
+<img src="https://github.com/Haris-Abdul-Ghaffar/Haris-Abdul-Ghaffar/blob/main/Assest/NCTP%20Pentesting.jpg" alt="NCTP Pentest">
 
 
 **Languages and Tools:** 
