@@ -12,7 +12,9 @@
 
 ## Cyber Security Engineer | Penetration Tester 🛡️
 
-Dedicated to hardening digital defenses and breaking code the right way. Passionate Bug Bounty Hunter focused on discovering and remediating high-impact vulnerabilities. Exploring the intersection of offensive security and secure development practices.
+Dedicated to hardening digital defenses and breaking code the right way. Passionate Bug Bounty Hunter focused on discovering and remediating high-impact vulnerabilities. Exploring the intersection of offensive security and secure development practices. My expertise is rooted in offensive security: rigorous Penetration Testing and proactive Vulnerability Assessment, fueled by a passion for Bug Bounty Hunting.
+
+My unique advantage is leveraging deep architectural knowledge of defensive systems—including **PAM**, **DLP**, and **XDR** which is a plus for me as I also work in Cybersecurity Solutions, so I know the Defensive side works🔰.
 
 - 🔭 I’m currently working on robust Cybersecurity Solutions, working on Penetration Testing projects and Bug Bounty programs.
 - 🌱 I’m currently learning advanced techniques and new methodologies for Bug Bounty Hunting, focusing on novel attack vectors.
